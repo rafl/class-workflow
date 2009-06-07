@@ -1,3 +1,14 @@
+0.10
+    - formatting fixes in the cookbook
+    - update the PERSISTENCE section of Class::Workflow to discuss the cookbook stuff
+    - Fix auto_transition/has_transition with by name queries
+    - use get_all_attributes instead of compute_all_applicable_attributes
+    - fix DBIC example
+    - use MooseX::Clone
+    - rant about roles in the context
+    - KiokuDB in Cookbook
+    - Tests for State::Simple's has_transition method
+
 0.09
 	- Update for more recent Moose
 
