@@ -791,9 +791,8 @@ L<Moose>
 
 =head1 VERSION CONTROL
 
-This module is maintained using Darcs. You can get the latest version from
-L<http://nothingmuch.woobling.org/Class-Workflow/>, and use C<darcs send>
-to commit changes.
+This module is maintained using git. You can get the latest version from
+git://github.com/nothingmuch/class-workflow.git
 
 =head1 AUTHOR
 
